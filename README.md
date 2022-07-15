@@ -1,8 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+este+é+o+repositório+do+Marcus;desenvolvedor+web+Jr.+:%29)](https://git.io/typing-svg)
 
-[giphy](https://user-images.githubusercontent.com/66654653/179299130-96854467-aa15-4cd9-aa6f-62946a290971.gif)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcusWittho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marcus L. Witthoeft github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusWittho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
