@@ -29,7 +29,7 @@
 <a href= https://github.com/https://github.com/marcusWittho?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 
 
-<h3> LinkedIn: <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/marcuslw/'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
+<h3> LinkedIn: <a href = 'https://www.linkedin.com/in/marcuslw/'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
 
 <h3> Um pouco de humor para descontrair <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h3>
 
