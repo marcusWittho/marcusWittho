@@ -23,7 +23,3 @@
 
 
 <h3> LinkedIn: <a href = 'https://www.linkedin.com/in/marcuslw/'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
-
-
-<br>
-<footer align='right'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
